@@ -18,7 +18,7 @@
 
 ## My tech stacks 💻
 
-<p>
+<p style="background-color: white; padding: 0.5rem; border-radius: 0.5rem">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" />
